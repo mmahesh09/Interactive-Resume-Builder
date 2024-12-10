@@ -19,3 +19,5 @@ Welcome to the **Interactive Resume Builder**! This project allows users to crea
 * HTML5: Markup for creating the structure of the resume builder.
 * CSS3: Styling and animations to enhance the user interface.
 * JavaScript: Dynamic functionality like form handling, resume preview, and download.
+
+To use [site](https://frolicking-cannoli-cbf738.netlify.app/)
